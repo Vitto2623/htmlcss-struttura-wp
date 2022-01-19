@@ -45,9 +45,11 @@
 }
 
 .central-container{
+    float: left;
+    width: 59%;
     background-color: #abcfe7;
-
-    
+    height: 555px;
+    margin: 26px 20px 0px 20px;
 }
 
 .right-container{
